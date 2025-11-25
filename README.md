@@ -5,9 +5,10 @@
 ### 💻 Building projects to improve my skills  
 
 ## 🛠️ Skills
+[![My Skills](https://skillicons.dev/icons?i=python,react,html,css,git,github)](https://skillicons.dev) 
 
-[![My Skills](https://skillicons.dev/icons?i=python,react,html,css,git,github)](https://skillicons.dev)
+## 🚧 What I'm Working On
 
-## 📊 GitHub Stats
-
-![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateekv&show_icons=true&theme=transparent)
+- 🌱 Learning: Python, React, and AI Tools  
+- 🛠️ Building: Small projects to improve my development skills  
+- 📚 Exploring: Open-source contributions and real-world codebases  
