@@ -10,4 +10,4 @@
 
 ## 📊 GitHub Stats
 
-![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateekv&show_icons=true&theme=default)
+![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateekv&show_icons=true&theme=transparent)
